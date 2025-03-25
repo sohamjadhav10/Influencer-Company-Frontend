@@ -58,4 +58,6 @@ const CompanyCard = ({ company }: CompanyCardProps) => {
   );
 };
 
+
+
 export default CompanyCard;
